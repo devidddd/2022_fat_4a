@@ -1,7 +1,7 @@
 /**
  * 
  * @author davide
- * main
+ * main cancl
  *
  */
 public class MainFigure {
@@ -10,9 +10,9 @@ public class MainFigure {
 		/*
 		Cilindro = new cilindro(3,2);
 		
-		System.out.println("l'area della base è"+cil1.area());
-		System.out.println("la circonferenza della base è"+cil1.circonferenza());
-		System.out.println("il volume del cilindro è"+cil1.volume());
+		System.out.println("l'area della base Ã¨"+cil1.area());
+		System.out.println("la circonferenza della base Ã¨"+cil1.circonferenza());
+		System.out.println("il volume del cilindro Ã¨"+cil1.volume());
 		
 		 */
 	}
