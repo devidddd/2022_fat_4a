@@ -4,8 +4,8 @@
  * 
  * <ul>
  * Funzioni:</b>
- * <li>Circonferenza
- * <li>Area sium
+ * <li>Circonferenza sium
+ * <li>Area
  * </ul>
  * 
  * @author Davide

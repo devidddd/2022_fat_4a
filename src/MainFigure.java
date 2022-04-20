@@ -1,6 +1,7 @@
 /**
  * 
  * @author davide
+ * main
  *
  */
 public class MainFigure {
