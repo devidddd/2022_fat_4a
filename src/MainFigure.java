@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author davide
+ *
+ */
 public class MainFigure {
 
 	public static void main(String argv[]) {

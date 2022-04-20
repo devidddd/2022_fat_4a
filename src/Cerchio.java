@@ -5,7 +5,7 @@
  * <ul>
  * Funzioni:</b>
  * <li>Circonferenza
- * <li>Area
+ * <li>Area sium
  * </ul>
  * 
  * @author Davide
